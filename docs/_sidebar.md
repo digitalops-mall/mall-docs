@@ -1,14 +1,24 @@
-- 设计模式
+- 序言
 
-  - [第一章节](desgin-pattern/Java面试必备：手写单例模式.md)
-  - [工厂模式](desgin-pattern/工厂模式超详解（代码示例）.md)
-  - [原型模式](desgin-pattern/设计模式之原型模式.md)
-  - [代理模式](desgin-pattern/设计模式之代理模式.md)
+  - [序言](preface/序言.md)
+  - [基础项目架构](preface/序言.md)
 
-- Spring框架
+- 服务器环境搭建
 
-  - [初识spring框架](spring/【10分钟学Spring】：（一）初识Spring框架.md)
-  - [依赖注入及示例](spring/【10分钟学Spring】：（二）一文搞懂spring依赖注入（DI）.md)
-  - [spring的条件化装配](spring/【10分钟学Spring】：（三）你了解spring的高级装配吗_条件化装配bean.md)
+  - [申请公网服务器](server/申请公网服务器.md)
+  - [公网服务器必备软件-宝塔安装指南](server/公网服务器必备软件-宝塔安装指南.md)
+  - [公网服务器必备软件-宝塔配置apache](server/公网服务器必备软件-宝塔配置apache.md)
+  - [公网服务器必备软件-宝塔配置ssl证书](server/公网服务器必备软件-宝塔配置ssl证书.md)
+  - [公网服务器必备软件-FRP内网穿透工具](server/公网服务器必备软件-FRP内网穿透工具.md)
+  - [树莓派系统安装及使用指南](server/树莓派系统安装及使用指南.md)
+  - [树莓派必备软件-oh my zsh](server/树莓派必备软件-oh_my_zsh.md)
 
-- 数据库
+- 应用部署-mall
+  - [mall docker安装](application/mall_docker安装.md)
+
+- 应用部署-xxpay
+  - [xxpay docker安装](application/mall_docker安装.md)
+
+- 应用部署-wx-api
+  - [xxpay docker安装](application/mall_docker安装.md)
+

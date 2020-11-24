@@ -1,13 +1,14 @@
 * 演示
-  * [后台管理](http://www.macrozheng.com/admin/index.html)
-  * [移动端](http://www.macrozheng.com/app/index.html)
+  * [移动端商城-h5版访问地址](https://portal-web.mall.huozaigz.com/#/)
 
-* 项目地址
-  * [后台项目](https://github.com/macrozheng/mall)
-  * [前端项目](https://github.com/macrozheng/mall-admin-web)
-  * [学习教程](https://github.com/macrozheng/mall-learning)
-  * [项目骨架](https://github.com/macrozheng/mall-tiny)
+* 开源项目地址
+  * [开源mall商城](https://github.com/macrozheng/mall)
+  * [开源mall商城-学习教程](https://github.com/macrozheng/mall-learning)
+  * [开源支付xxpay](https://github.com/oliverldx/xxpay-master.git)
+  * [开源公众号管理系统wx-api](https://github.com/oliverldx/wx-api.git)
 
-* SpringCloud
-  * [SpringCloud版本](https://github.com/macrozheng/mall-swarm)
-  * [SpringCloud教程](https://github.com/macrozheng/springcloud-learning)
+* 技术文档地址
+  * [uniapp官网](https://uniapp.dcloud.io/README)
+  * [uniapp-插件市场](https://ext.dcloud.net.cn)
+  * [微信官方文档](https://developers.weixin.qq.com/miniprogram/introduction/)
+  * [微信公众平台登录地址](https://mp.weixin.qq.com)
