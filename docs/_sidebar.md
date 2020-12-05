@@ -1,23 +1,41 @@
-- 序言
-  - [序言](preface/preface_01.md)
-  - [基础项目架构](preface/preface_02.md)
-
-- 服务器环境搭建
-
-  - [申请公网服务器](server/server_01.md)
-  - [公网服务器必备软件-宝塔安装指南](server/server_02.md)
-  - [公网服务器必备软件-宝塔配置apache](server/server_03.md)
-  - [公网服务器必备软件-宝塔配置ssl证书](server/server_04.md)
-  - [公网服务器必备软件-FRP内网穿透工具](server/server_05.md)
-  - [树莓派系统安装及使用指南](server/server_06.md)
-  - [树莓派必备软件-oh my zsh](server/server_07.md)
-
-- 应用部署-mall
-  - [mall docker安装](application/application_01.md)
-
-- 应用部署-xxpay
-  - [xxpay docker安装](application/application_02.md)
-
-- 应用部署-wx-api
-  - [wx-api docker安装](application/application_03.md)
+- 介绍
+  - [介绍](preface/preface_01.md)
+- 语境
+  - [语境](context/context_01.md)
+- 功能性概览
+  - ~~[功能性概览](preface/preface_01.md)~~
+- 质量属性
+  - ~~[质量属性](preface/preface_01.md)~~
+- 约束
+  - ~~[约束](preface/preface_01.md)~~
+- 原则
+  - ~~[原则](preface/preface_01.md)~~
+- 软件架构
+  - ~~[软件架构](preface/preface_01.md)~~
+- 外部接口
+  - ~~[外部接口](preface/preface_01.md)~~
+- 代码
+  - ~~[代码](preface/preface_01.md)~~
+- 数据
+  - ~~[数据](preface/preface_01.md)~~
+- 基础设施架构
+  - ~~[基础设施架构](preface/preface_01.md)~~
+- 部署
+  - ~~[部署](preface/preface_01.md)~~
+  - 服务器环境搭建
+    - ~~[申请公网服务器(Server)](server/server_01.md)~~
+    - ~~[Server必备软件-宝塔安装指南](server/server_02.md)~~
+    - ~~[Server必备软件-宝塔配置apache](server/server_03.md)~~
+    - ~~[Server必备软件-宝塔配置ssl证书](server/server_04.md)~~
+    - ~~[Server必备软件-FRP内网穿透工具](server/server_05.md)~~
+    - ~~[树莓派系统安装及使用指南](server/server_06.md)~~
+    - ~~[树莓派必备软件-oh my zsh](server/server_07.md)~~
+  - 应用部署-mall
+    - ~~[mall docker安装](application/application_01.md)~~
+  - 应用部署-xxpay
+    - ~~[xxpay docker安装](application/application_02.md)~~
+  - 应用部署-wx-api
+    - ~~[wx-api docker安装](application/application_03.md)~~    
+- 运营和支持
+  - ~~[运营和支持](preface/preface_01.md)~~
 
