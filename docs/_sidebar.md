@@ -3,13 +3,13 @@
 - 语境
   - [语境](context/context_01.md)
 - 功能性概览
-  - ~~[功能性概览](preface/preface_01.md)~~
+  - [功能性概览](functional_overview/functional_overview_01.md)
 - 质量属性
-  - ~~[质量属性](preface/preface_01.md)~~
+  - [质量属性](quality/quality_01.md)
 - 约束
-  - ~~[约束](preface/preface_01.md)~~
+  - [约束](constraint/constraint_01.md)
 - 原则
-  - ~~[原则](preface/preface_01.md)~~
+  - [原则](principle/principle_01.md)
 - 软件架构
   - ~~[软件架构](preface/preface_01.md)~~
 - 外部接口
